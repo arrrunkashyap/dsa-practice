@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/arrrunkashyap/dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arrrunkashyap/dsa-practice/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
