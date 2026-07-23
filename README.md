@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/arrrunkashyap/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0204-count-primes](https://github.com/arrrunkashyap/dsa-practice/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/arrrunkashyap/dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/arrrunkashyap/dsa-practice/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/arrrunkashyap/dsa-practice/tree/master/0204-count-primes) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arrrunkashyap/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Divide and Conquer
 |  |
@@ -88,4 +91,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/arrrunkashyap/dsa-practice/tree/master/0204-count-primes) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Counting
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
