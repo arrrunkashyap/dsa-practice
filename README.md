@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/arrrunkashyap/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/1572-matrix-diagonal-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
