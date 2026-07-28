@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arrrunkashyap/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/arrrunkashyap/dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/arrrunkashyap/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/arrrunkashyap/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/arrrunkashyap/dsa-practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0052-n-queens-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/arrrunkashyap/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
