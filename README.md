@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arrrunkashyap/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/arrrunkashyap/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/arrrunkashyap/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/arrrunkashyap/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/arrrunkashyap/dsa-practice/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/arrrunkashyap/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/arrrunkashyap/dsa-practice/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/arrrunkashyap/dsa-practice/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
