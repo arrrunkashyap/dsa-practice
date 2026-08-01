@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/arrrunkashyap/dsa-practice/tree/master/0013-roman-to-integer) |
+| [0146-lru-cache](https://github.com/arrrunkashyap/dsa-practice/tree/master/0146-lru-cache) |
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/arrrunkashyap/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/arrrunkashyap/dsa-practice/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -178,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/arrrunkashyap/dsa-practice/tree/master/0486-predict-the-winner) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/arrrunkashyap/dsa-practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/arrrunkashyap/dsa-practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
