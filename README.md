@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/arrrunkashyap/dsa-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/arrrunkashyap/dsa-practice/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/arrrunkashyap/dsa-practice/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/arrrunkashyap/dsa-practice/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/arrrunkashyap/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/arrrunkashyap/dsa-practice/tree/master/0089-gray-code) |
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/arrrunkashyap/dsa-practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/arrrunkashyap/dsa-practice/tree/master/0089-gray-code) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
 |  |
