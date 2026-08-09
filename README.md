@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/arrrunkashyap/dsa-practice/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1140-stone-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/1572-matrix-diagonal-sum) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arrrunkashyap/dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1140-stone-game-ii) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/arrrunkashyap/dsa-practice/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arrrunkashyap/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/arrrunkashyap/dsa-practice/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/arrrunkashyap/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/arrrunkashyap/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arrrunkashyap/dsa-practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arrrunkashyap/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/arrrunkashyap/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arrrunkashyap/dsa-practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1406-stone-game-iii) |
 ## Design
 |  |
@@ -247,10 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1406-stone-game-iii) |
 ## Tree
 |  |
