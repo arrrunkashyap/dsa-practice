@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arrrunkashyap/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arrrunkashyap/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arrrunkashyap/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
 |  |
 | ------- |
