@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/arrrunkashyap/dsa-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/arrrunkashyap/dsa-practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/arrrunkashyap/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/arrrunkashyap/dsa-practice/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/arrrunkashyap/dsa-practice/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/arrrunkashyap/dsa-practice/tree/master/0486-predict-the-winner) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/arrrunkashyap/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/arrrunkashyap/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/arrrunkashyap/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/arrrunkashyap/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arrrunkashyap/dsa-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1140-stone-game-ii) |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arrrunkashyap/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/arrrunkashyap/dsa-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
