@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/arrrunkashyap/dsa-practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/arrrunkashyap/dsa-practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/arrrunkashyap/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/arrrunkashyap/dsa-practice/tree/master/0054-spiral-matrix) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arrrunkashyap/dsa-practice/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0045-jump-game-ii) |
 | [1323-maximum-69-number](https://github.com/arrrunkashyap/dsa-practice/tree/master/1323-maximum-69-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arrrunkashyap/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arrrunkashyap/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/arrrunkashyap/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/arrrunkashyap/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arrrunkashyap/dsa-practice/tree/master/0877-stone-game) |
