@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/arrrunkashyap/dsa-practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/arrrunkashyap/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/arrrunkashyap/dsa-practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/arrrunkashyap/dsa-practice/tree/master/0120-triangle) |
 | [0204-count-primes](https://github.com/arrrunkashyap/dsa-practice/tree/master/0204-count-primes) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/arrrunkashyap/dsa-practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/arrrunkashyap/dsa-practice/tree/master/0089-gray-code) |
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/arrrunkashyap/dsa-practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/arrrunkashyap/dsa-practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/arrrunkashyap/dsa-practice/tree/master/0089-gray-code) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
