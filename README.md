@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arrrunkashyap/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/arrrunkashyap/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/arrrunkashyap/dsa-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/arrrunkashyap/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/arrrunkashyap/dsa-practice/tree/master/0065-valid-number) |
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/arrrunkashyap/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/arrrunkashyap/dsa-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/arrrunkashyap/dsa-practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/arrrunkashyap/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/arrrunkashyap/dsa-practice/tree/master/0054-spiral-matrix) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/arrrunkashyap/dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/arrrunkashyap/dsa-practice/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/arrrunkashyap/dsa-practice/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/arrrunkashyap/dsa-practice/tree/master/0146-lru-cache) |
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/arrrunkashyap/dsa-practice/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/arrrunkashyap/dsa-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/arrrunkashyap/dsa-practice/tree/master/0056-merge-intervals) |
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
