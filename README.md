@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/arrrunkashyap/dsa-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/arrrunkashyap/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/arrrunkashyap/dsa-practice/tree/master/0065-valid-number) |
+| [0093-restore-ip-addresses](https://github.com/arrrunkashyap/dsa-practice/tree/master/0093-restore-ip-addresses) |
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arrrunkashyap/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/arrrunkashyap/dsa-practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/arrrunkashyap/dsa-practice/tree/master/0089-gray-code) |
+| [0093-restore-ip-addresses](https://github.com/arrrunkashyap/dsa-practice/tree/master/0093-restore-ip-addresses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
 |  |
