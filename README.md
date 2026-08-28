@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/arrrunkashyap/dsa-practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/arrrunkashyap/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/arrrunkashyap/dsa-practice/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/arrrunkashyap/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/arrrunkashyap/dsa-practice/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/arrrunkashyap/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/arrrunkashyap/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/arrrunkashyap/dsa-practice/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/arrrunkashyap/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/arrrunkashyap/dsa-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arrrunkashyap/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/arrrunkashyap/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/arrrunkashyap/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/arrrunkashyap/dsa-practice/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/arrrunkashyap/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/arrrunkashyap/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/arrrunkashyap/dsa-practice/tree/master/0100-same-tree) |
 ## Nim Game
 |  |
@@ -413,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arrrunkashyap/dsa-practice/tree/master/0042-trapping-rain-water) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/arrrunkashyap/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
