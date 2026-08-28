@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/arrrunkashyap/dsa-practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/arrrunkashyap/dsa-practice/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/arrrunkashyap/dsa-practice/tree/master/0093-restore-ip-addresses) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/arrrunkashyap/dsa-practice/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
 |  |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/arrrunkashyap/dsa-practice/tree/master/0100-same-tree) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/arrrunkashyap/dsa-practice/tree/master/0967-numbers-with-same-consecutive-differences) |
 ## Binary Tree
 |  |
 | ------- |
