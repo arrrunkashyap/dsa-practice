@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/arrrunkashyap/dsa-practice/tree/master/0065-valid-number) |
 | [0093-restore-ip-addresses](https://github.com/arrrunkashyap/dsa-practice/tree/master/0093-restore-ip-addresses) |
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/arrrunkashyap/dsa-practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arrrunkashyap/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/arrrunkashyap/dsa-practice/tree/master/1768-merge-strings-alternately) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/arrrunkashyap/dsa-practice/tree/master/0086-partition-list) |
 | [0283-move-zeroes](https://github.com/arrrunkashyap/dsa-practice/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/arrrunkashyap/dsa-practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/arrrunkashyap/dsa-practice/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arrrunkashyap/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/arrrunkashyap/dsa-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arrrunkashyap/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/arrrunkashyap/dsa-practice/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/arrrunkashyap/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arrrunkashyap/dsa-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1140-stone-game-ii) |
