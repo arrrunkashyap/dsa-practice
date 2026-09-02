@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/arrrunkashyap/dsa-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/arrrunkashyap/dsa-practice/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/arrrunkashyap/dsa-practice/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/arrrunkashyap/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/arrrunkashyap/dsa-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/arrrunkashyap/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/arrrunkashyap/dsa-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/arrrunkashyap/dsa-practice/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/arrrunkashyap/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/arrrunkashyap/dsa-practice/tree/master/0486-predict-the-winner) |
 ## Prefix Sum
 |  |
