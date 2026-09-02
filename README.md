@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1140-stone-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1406-stone-game-iii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/arrrunkashyap/dsa-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/1572-matrix-diagonal-sum) |
 | [1872-stone-game-viii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1872-stone-game-viii) |
