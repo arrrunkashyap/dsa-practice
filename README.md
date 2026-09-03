@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/arrrunkashyap/dsa-practice/tree/master/0065-valid-number) |
 | [0093-restore-ip-addresses](https://github.com/arrrunkashyap/dsa-practice/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/arrrunkashyap/dsa-practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/arrrunkashyap/dsa-practice/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/arrrunkashyap/dsa-practice/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/arrrunkashyap/dsa-practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/arrrunkashyap/dsa-practice/tree/master/1768-merge-strings-alternately) |
