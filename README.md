@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/arrrunkashyap/dsa-practice/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/arrrunkashyap/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/arrrunkashyap/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/arrrunkashyap/dsa-practice/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1140-stone-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1140-stone-game-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/arrrunkashyap/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arrrunkashyap/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arrrunkashyap/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
