@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/arrrunkashyap/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/arrrunkashyap/dsa-practice/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/arrrunkashyap/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0486-predict-the-winner](https://github.com/arrrunkashyap/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/arrrunkashyap/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/arrrunkashyap/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/arrrunkashyap/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [1323-maximum-69-number](https://github.com/arrrunkashyap/dsa-practice/tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/arrrunkashyap/dsa-practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -474,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arrrunkashyap/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/arrrunkashyap/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
