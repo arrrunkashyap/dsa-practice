@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/arrrunkashyap/dsa-practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arrrunkashyap/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/arrrunkashyap/dsa-practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arrrunkashyap/dsa-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arrrunkashyap/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/arrrunkashyap/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/arrrunkashyap/dsa-practice/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/arrrunkashyap/dsa-practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arrrunkashyap/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/arrrunkashyap/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
