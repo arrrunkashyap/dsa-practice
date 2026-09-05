@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/arrrunkashyap/dsa-practice/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1140-stone-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1140-stone-game-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/arrrunkashyap/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1406-stone-game-iii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arrrunkashyap/dsa-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arrrunkashyap/dsa-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1207-unique-number-of-occurrences](https://github.com/arrrunkashyap/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/arrrunkashyap/dsa-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/arrrunkashyap/dsa-practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arrrunkashyap/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
