@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/arrrunkashyap/dsa-practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
+| [0940-distinct-subsequences-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arrrunkashyap/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arrrunkashyap/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/arrrunkashyap/dsa-practice/tree/master/1657-determine-if-two-strings-are-close) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/arrrunkashyap/dsa-practice/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/arrrunkashyap/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arrrunkashyap/dsa-practice/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/arrrunkashyap/dsa-practice/tree/master/1510-stone-game-iv) |
