@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arrrunkashyap/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/arrrunkashyap/dsa-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/arrrunkashyap/dsa-practice/tree/master/1768-merge-strings-alternately) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arrrunkashyap/dsa-practice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/arrrunkashyap/dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arrrunkashyap/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arrrunkashyap/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/arrrunkashyap/dsa-practice/tree/master/1572-matrix-diagonal-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/arrrunkashyap/dsa-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/arrrunkashyap/dsa-practice/tree/master/1732-find-the-highest-altitude) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arrrunkashyap/dsa-practice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1872-stone-game-viii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/arrrunkashyap/dsa-practice/tree/master/2029-stone-game-ix) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/arrrunkashyap/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/arrrunkashyap/dsa-practice/tree/master/1732-find-the-highest-altitude) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arrrunkashyap/dsa-practice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1872-stone-game-viii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/arrrunkashyap/dsa-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/3904-smallest-stable-index-ii) |
