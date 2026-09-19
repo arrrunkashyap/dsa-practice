@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/arrrunkashyap/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/arrrunkashyap/dsa-practice/tree/master/1323-maximum-69-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/arrrunkashyap/dsa-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/arrrunkashyap/dsa-practice/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/arrrunkashyap/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -513,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/arrrunkashyap/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/arrrunkashyap/dsa-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
