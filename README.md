@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/arrrunkashyap/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arrrunkashyap/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/arrrunkashyap/dsa-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/arrrunkashyap/dsa-practice/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arrrunkashyap/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3945-digit-frequency-score](https://github.com/arrrunkashyap/dsa-practice/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
 | ------- |
