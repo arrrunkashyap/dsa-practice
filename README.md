@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/arrrunkashyap/dsa-practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/arrrunkashyap/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/arrrunkashyap/dsa-practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/arrrunkashyap/dsa-practice/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/arrrunkashyap/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/arrrunkashyap/dsa-practice/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arrrunkashyap/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/arrrunkashyap/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/arrrunkashyap/dsa-practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/arrrunkashyap/dsa-practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/arrrunkashyap/dsa-practice/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/arrrunkashyap/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/arrrunkashyap/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arrrunkashyap/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
