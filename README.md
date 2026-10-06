@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/arrrunkashyap/dsa-practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/arrrunkashyap/dsa-practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/arrrunkashyap/dsa-practice/tree/master/0567-permutation-in-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/arrrunkashyap/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arrrunkashyap/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arrrunkashyap/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arrrunkashyap/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arrrunkashyap/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/arrrunkashyap/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/arrrunkashyap/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/arrrunkashyap/dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arrrunkashyap/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/arrrunkashyap/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/arrrunkashyap/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/arrrunkashyap/dsa-practice/tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/arrrunkashyap/dsa-practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arrrunkashyap/dsa-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/arrrunkashyap/dsa-practice/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/arrrunkashyap/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Quicksort
 |  |
 | ------- |
